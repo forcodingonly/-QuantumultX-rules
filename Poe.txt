@@ -1,0 +1,5 @@
+HOST-SUFFIX,quora.com,Poe
+HOST-SUFFIX,poe.com.io,Poe
+HOST-SUFFIX,recaptcha.net.io,Poe
+HOST-SUFFIX,googleapis.com,Poe
+HOST-SUFFIX,singular.net.com,Poe
