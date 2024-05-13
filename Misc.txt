@@ -1,0 +1,2 @@
+HOST-KEYWORD,v2ex,Misc
+HOST-SUFFIX,imgur.com,Misc
