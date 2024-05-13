@@ -1,1 +1,13 @@
 # Poe
+
+HOST-SUFFIX,quora.com,Proxy
+HOST-SUFFIX,poe.com.io,Proxy
+HOST-SUFFIX,recaptcha.net.io,Proxy
+HOST-SUFFIX,googleapis.com,Proxy
+HOST-SUFFIX,singular.net,Proxy
+HOST-SUFFIX,poecdn.net.com,Proxy
+
+# V2ex
+
+HOST-KEYWORD,v2ex,Proxy
+HOST-SUFFIX,imgur.com,Proxy
